@@ -1,4 +1,4 @@
-# AI Customer Support Agent — Amazon Bedrock AgentCore
+# AI Customer Support Agent, Amazon Bedrock AgentCore
 
 [![AWS](https://img.shields.io/badge/AWS-Bedrock%20AgentCore-orange?logo=amazon-aws)](https://aws.amazon.com/bedrock/agentcore/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
@@ -90,3 +90,4 @@ All six required test scenarios were run against the deployed agent and are docu
 ## Notes
 
 This was built as a Udacity Cloud AWS AI Agent project. All AWS resources used a temporary sandboxed lab account and have since been decommissioned; this repository preserves the source code, configuration, and test evidence.
+Built with 🤍 by Katlego Mathebula
